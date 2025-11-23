@@ -47,10 +47,10 @@ Di era **Revolusi Industri 4.0** dan **Society 5.0**, pemrograman bukan lagi sek
 
 Proyek ini dikembangkan dengan dedikasi tinggi oleh talenta yang berpengalaman di bidangnya:
 
-| Foto | Nama & Peran | Latar Belakang |
-| :---: | :--- | :--- |
-| 🎨 | **Dedad Fajar**<br>UI/UX Designer | **Ex. Bangkit Academy**<br>Fokus pada perancangan antarmuka yang user-friendly dan pengalaman pengguna yang intuitif. |
-| 💻 | **Umar Jihad**<br>Fullstack Developer | **Ex. Coding Camp by DBS**<br>Bertanggung jawab atas arsitektur sistem, performa backend, dan interaktivitas frontend. |
+| Foto | Nama & Peran | Latar Belakang | Koneksi |
+| :---: | :--- | :--- | :---: |
+| 🎨 | **Dedad Fajar**<br>UI/UX Designer | **Ex. Bangkit Academy**<br>Fokus pada perancangan antarmuka yang user-friendly dan pengalaman pengguna yang intuitif. | [LinkedIn 🔗](https://www.linkedin.com/in/dedadfajar/) |
+| 💻 | **Umar Jihad**<br>Fullstack Developer | **Ex. Coding Camp by DBS**<br>Bertanggung jawab atas arsitektur sistem, performa backend, dan interaktivitas frontend. | [LinkedIn 🔗](https://www.linkedin.com/in/umar-jihad-ab83a6259/) |
 
 ---
 
